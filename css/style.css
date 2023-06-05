@@ -306,11 +306,11 @@ h1 span{
 
 .menu-content ul{
 
-  width:500px;
+  /* width:500px;
   left:50%;
   float:right;
   text-align:right;
-  list-style:none;
+  list-style:none; */
 }
 
 .menu-content li{
